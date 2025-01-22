@@ -20,15 +20,15 @@ At least one uppercase letter, one lowercase letter, one digit, and one special 
 
 Displays progress for large file encryption and decryption using tqdm.
 
-### 4. File Integrity Verification
+ 4. File Integrity Verification
 
 Verify if the decrypted file matches the original file to ensure accuracy.
 
-### 5. Secure Deletion
+ 5. Secure Deletion
 
 Overwrite files with random data multiple times before deletion to prevent recovery.
 
-### 6. Detailed Logging
+ 6. Detailed Logging
 
 Logs all operations for traceability and debugging.
 
