@@ -16,35 +16,35 @@ Ensures the password meets security criteria:
 Minimum 8 characters.
 At least one uppercase letter, one lowercase letter, one digit, and one special character.
 
-# 3. Progress Bars
+### 3. Progress Bars
 
 Displays progress for large file encryption and decryption using tqdm.
 
-# 4. File Integrity Verification
+### 4. File Integrity Verification
 
 Verify if the decrypted file matches the original file to ensure accuracy.
 
-# 5. Secure Deletion
+### 5. Secure Deletion
 
 Overwrite files with random data multiple times before deletion to prevent recovery.
 
-# 6. Detailed Logging
+### 6. Detailed Logging
 
 Logs all operations for traceability and debugging.
 
-# Installation
+### Installation
 
 Clone the repository:
 git clone https://github.com/nijiinhell/dencer
 cd dencer
 
-# Install dependencies:
+### Install dependencies:
 
 pip install -r requirements.txt
 
 Dependencies include: cryptography, tqdm
 
-# Usage
+### Usage
 
 1. Encrypt a File
 
@@ -70,11 +70,11 @@ Overwrite a file multiple times before deleting it:
 
 python encryptor.py --secure-delete input.txt
 
-# Contributing
+### Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-# Contact
+### Contact
 
 For questions or feedback, reach out at nijatmmmdv@gmail.com
 
