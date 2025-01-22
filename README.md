@@ -5,12 +5,12 @@ The Advanced Encryption Tool is a Python-based utility for encrypting and decryp
 
 Features
 
-# 1. AES-GCM Encryption
+### 1. AES-GCM Encryption
 
 Encrypt files with AES-GCM, providing both confidentiality and integrity.
 Uses 256-bit keys for strong encryption.
 
-# 2. Password Strength Validation
+### 2. Password Strength Validation
 
 Ensures the password meets security criteria:
 Minimum 8 characters.
