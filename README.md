@@ -1,20 +1,16 @@
-# dencer
-The Dencer is a secure Python tool for file encryption and decryption using AES-GCM. It features strong password validation, file integrity verification, progress tracking, and secure file deletion to prevent data recovery, ensuring robust protection for your sensitive information.
-
-Advanced Encryption Tool
-
+# Dencer
 Overview
 
 The Advanced Encryption Tool is a Python-based utility for encrypting and decrypting files securely using AES-GCM (Advanced Encryption Standard - Galois/Counter Mode). It provides enhanced security features such as password strength validation, file integrity verification, and secure file deletion to prevent data recovery.
 
 Features
 
-1. AES-GCM Encryption
+## 1. AES-GCM Encryption
 
 Encrypt files with AES-GCM, providing both confidentiality and integrity.
 Uses 256-bit keys for strong encryption.
 
-2. Password Strength Validation
+## 2. Password Strength Validation
 
 Ensures the password meets security criteria:
 Minimum 8 characters.
@@ -39,8 +35,8 @@ Logs all operations for traceability and debugging.
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/advanced-encryption-tool.git
-cd advanced-encryption-tool
+git clone https://github.com/nijiinhell/dencer
+cd dencer
 
 Install dependencies:
 
