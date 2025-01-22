@@ -3,7 +3,7 @@ Overview
 
 The Advanced Encryption Tool is a Python-based utility for encrypting and decrypting files securely using AES-GCM (Advanced Encryption Standard - Galois/Counter Mode). It provides enhanced security features such as password strength validation, file integrity verification, and secure file deletion to prevent data recovery.
 
-###F eatures
+### Features
 
  1. AES-GCM Encryption
 
